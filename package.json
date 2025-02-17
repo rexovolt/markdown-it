@@ -9,7 +9,7 @@
     "markdown-it",
     "markdown-it-plugin"
   ],
-  "repository": "markdown-it/markdown-it",
+  "repository": "https://github.com/rexovolt/markdown-it",
   "license": "MIT",
   "main": "dist/index.cjs.js",
   "module": "index.mjs",
